@@ -67,3 +67,327 @@ D:\R.S\GITHUB\LeamaSystems_26_Feb_2017\LeamaSystems.Web\LeamaSystems.Web\bin\Mic
 D:\R.S\GITHUB\LeamaSystems_26_Feb_2017\LeamaSystems.Web\LeamaSystems.Web\obj\Debug\LeamaSystems.Web.csprojResolveAssemblyReference.cache
 D:\R.S\GITHUB\LeamaSystems_26_Feb_2017\LeamaSystems.Web\LeamaSystems.Web\obj\Debug\LeamaSystems.Web.dll
 D:\R.S\GITHUB\LeamaSystems_26_Feb_2017\LeamaSystems.Web\LeamaSystems.Web\obj\Debug\LeamaSystems.Web.pdb
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\csc.exe
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\csc.exe.config
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\csc.rsp
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\csi.exe
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\csi.exe.config
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\csi.rsp
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.AppContext.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Console.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Diagnostics.Process.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.IO.Compression.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.IO.FileSystem.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.IO.Pipes.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Security.AccessControl.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Security.Claims.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Threading.Thread.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.ValueTuple.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Xml.XPath.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\vbc.exe
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\vbc.exe.config
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\vbc.rsp
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\VBCSCompiler.exe
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\LeamaSystems.Web.dll.config
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\LeamaSystems.Web.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\LeamaSystems.Web.pdb
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Antlr3.Runtime.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\EntityFramework.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\EntityFramework.SqlServer.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.Google.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\MySql.Data.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\MySql.Data.Entity.EF6.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Newtonsoft.Json.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Owin.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\System.Web.Helpers.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\System.Web.Mvc.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\System.Web.Optimization.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\System.Web.Razor.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\System.Web.WebPages.Deployment.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\System.Web.WebPages.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\System.Web.WebPages.Razor.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\WebGrease.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Antlr3.Runtime.pdb
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Newtonsoft.Json.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\System.Web.Helpers.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\System.Web.Mvc.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\System.Web.Optimization.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\System.Web.Razor.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\System.Web.WebPages.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\System.Web.WebPages.Deployment.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\System.Web.WebPages.Razor.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\EntityFramework.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\EntityFramework.SqlServer.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.Google.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\obj\Debug\LeamaSystems.Web.dll
+E:\Myfiles\MyDocs\LeaMa\LeaMaSystems\LeamaSystems.Web\obj\Debug\LeamaSystems.Web.pdb
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\csc.exe
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\csc.exe.config
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\csc.rsp
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\csi.exe
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\csi.exe.config
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\csi.rsp
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.AppContext.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Console.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Diagnostics.Process.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.IO.Compression.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.IO.FileSystem.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.IO.Pipes.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Security.AccessControl.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Security.Claims.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Threading.Thread.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.ValueTuple.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Xml.XPath.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\vbc.exe
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\vbc.exe.config
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\vbc.rsp
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\VBCSCompiler.exe
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\LeamaSystems.Web.dll.config
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\LeamaSystems.Web.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\LeamaSystems.Web.pdb
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Antlr3.Runtime.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\EntityFramework.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\EntityFramework.SqlServer.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Owin.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Owin.Security.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Owin.Security.Google.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\MySql.Data.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\MySql.Data.Entity.EF6.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Newtonsoft.Json.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Owin.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\System.Web.Helpers.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\System.Web.Mvc.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\System.Web.Optimization.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\System.Web.Razor.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\System.Web.WebPages.Deployment.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\System.Web.WebPages.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\System.Web.WebPages.Razor.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\WebGrease.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Antlr3.Runtime.pdb
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Newtonsoft.Json.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\System.Web.Helpers.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\System.Web.Mvc.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\System.Web.Optimization.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\System.Web.Razor.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\System.Web.WebPages.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\System.Web.WebPages.Deployment.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\System.Web.WebPages.Razor.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\EntityFramework.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\EntityFramework.SqlServer.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Owin.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Owin.Security.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Owin.Security.Google.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\obj\Debug\LeamaSystems.Web.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\obj\Debug\LeamaSystems.Web.pdb
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\obj\Debug\LeamaSystems.Web.csprojResolveAssemblyReference.cache
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\obj\Debug\LeamaSystems.Web.Resources.ErrorMessage.resources
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems-soms\LeamaSystems.Web\obj\Debug\LeamaSystems.Web.csproj.GenerateResource.Cache
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\csc.exe
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\csc.exe.config
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\csc.rsp
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\csi.exe
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\csi.exe.config
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\csi.rsp
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.AppContext.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Console.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Diagnostics.Process.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.IO.Compression.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.IO.FileSystem.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.IO.Pipes.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Security.AccessControl.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Security.Claims.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Threading.Thread.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.ValueTuple.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Xml.XPath.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\vbc.exe
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\vbc.exe.config
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\vbc.rsp
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\VBCSCompiler.exe
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\LeamaSystems.Web.dll.config
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\LeamaSystems.Web.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\LeamaSystems.Web.pdb
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Antlr3.Runtime.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\EntityFramework.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\EntityFramework.SqlServer.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.Google.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\MySql.Data.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\MySql.Data.Entity.EF6.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Newtonsoft.Json.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Owin.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\System.Web.Helpers.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\System.Web.Mvc.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\System.Web.Optimization.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\System.Web.Razor.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\System.Web.WebPages.Deployment.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\System.Web.WebPages.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\System.Web.WebPages.Razor.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\WebGrease.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Antlr3.Runtime.pdb
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Newtonsoft.Json.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\System.Web.Helpers.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\System.Web.Mvc.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\System.Web.Optimization.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\System.Web.Razor.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\System.Web.WebPages.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\System.Web.WebPages.Deployment.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\System.Web.WebPages.Razor.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\EntityFramework.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\EntityFramework.SqlServer.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.Google.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\obj\Debug\LeamaSystems.Web.csprojResolveAssemblyReference.cache
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\obj\Debug\LeamaSystems.Web.Resources.ErrorMessage.resources
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\obj\Debug\LeamaSystems.Web.csproj.GenerateResource.Cache
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\obj\Debug\LeamaSystems.Web.dll
+E:\Balaganesh\LeamaSystems Files\LeaMaSystems\LeamaSystems.Web\obj\Debug\LeamaSystems.Web.pdb
